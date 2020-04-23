@@ -1,11 +1,8 @@
 **Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**
 
-
 Este es un resumen legible para personas poco versadas en legalidad y no un sustituto de la licencia, símplemente es un resumen. Para conocer la licencia de forma legal, consulte el documento:
 
-
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.es
-
 
 Usted es libre de:
 ==================
@@ -23,4 +20,3 @@ El licenciante no puede revocar estas libertades en tanto usted siga los términ
 **CompartirIgual** Si remezcla, transforma o crea a partir del material, debe distribuir su contribución bajo la lamisma licencia del original.
 
 No hay restricciones adicionales — No puede aplicar términos legales ni medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso permitido por esta licencia.
-
