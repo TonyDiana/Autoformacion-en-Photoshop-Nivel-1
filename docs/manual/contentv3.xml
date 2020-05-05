@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -87,7 +87,7 @@
   <string role="key" value="_nextIdeviceId"></string>
   <int value="176"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="57"></int>
+  <int value="58"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -337,7 +337,7 @@ text through the text editing buttons associated with the field."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="43321"></int>
+                     <int value="43341"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -351,7 +351,7 @@ text through the text editing buttons associated with the field."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="27_114_2.26"></unicode>
+                   <unicode value="27_114_2.27"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="8">
                     <dictionary>
@@ -362,7 +362,7 @@ text through the text editing buttons associated with the field."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="Photoshop_Box_Shots_Through_the_Years.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Photoshop_Box_Shots_Through_the_Years.png"></string>
+                     <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Photoshop_Box_Shots_Through_the_Years.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="e78b75045a4c62dd3ae0e1ac5c52b31b"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -391,7 +391,7 @@ text through the text editing buttons associated with the field."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="27"></int>
+              <int value="28"></int>
               <string role="key" value="parentNode"></string>
               <reference key="7"></reference>
              </dictionary>
@@ -546,7 +546,7 @@ text through the text editing buttons associated with the field."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="43315"></int>
+                        <int value="43335"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -560,7 +560,7 @@ text through the text editing buttons associated with the field."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="124_130_2.26"></unicode>
+                      <unicode value="124_130_2.27"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="12">
                        <dictionary>
@@ -571,7 +571,7 @@ text through the text editing buttons associated with the field."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="inicio.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\inicio.png"></string>
+                        <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\inicio.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="7ac4ac708d031673a381868ccc954b63"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -600,7 +600,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="27"></int>
+                 <int value="28"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="11"></reference>
                 </dictionary>
@@ -2810,7 +2810,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43322"></int>
+                           <int value="43342"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2824,7 +2824,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="165_183_2.5"></unicode>
+                         <unicode value="165_183_2.6"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="55">
                           <dictionary>
@@ -2835,7 +2835,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Rendimiento.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Rendimiento.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Rendimiento.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="1b3c5eb5c2234182b331ef912c2ffc9e"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2864,7 +2864,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="6"></int>
+                    <int value="7"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="54"></reference>
                    </dictionary>
@@ -3028,7 +3028,7 @@ complete this learning."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="43313"></int>
+                        <int value="43333"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3042,7 +3042,7 @@ complete this learning."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="122_128_2.26"></unicode>
+                      <unicode value="122_128_2.27"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="59">
                        <dictionary>
@@ -3053,7 +3053,7 @@ complete this learning."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="elementos-interfaz-photoshop.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\elementos-interfaz-photoshop.png"></string>
+                        <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\elementos-interfaz-photoshop.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="550622db1590f57c26aefddb8df724fb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3082,7 +3082,7 @@ complete this learning."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="27"></int>
+                 <int value="28"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="58"></reference>
                 </dictionary>
@@ -3238,7 +3238,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43316"></int>
+                           <int value="43336"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3252,7 +3252,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="123_129_2.26"></unicode>
+                         <unicode value="123_129_2.27"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="63">
                           <dictionary>
@@ -3263,7 +3263,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Lienzo.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Lienzo.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Lienzo.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="82d5efb2a23d224e67641aa5fa88bbfe"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3292,7 +3292,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="27"></int>
+                    <int value="28"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="62"></reference>
                    </dictionary>
@@ -3644,7 +3644,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43320"></int>
+                           <int value="43340"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3658,7 +3658,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="173_136_2.23"></unicode>
+                         <unicode value="173_136_2.24"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="70">
                           <dictionary>
@@ -3669,7 +3669,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Pestagnas.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Pestagnas.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Pestagnas.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="efcc41a2a7514dded0d1592ae3407fbc"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3698,7 +3698,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="24"></int>
+                    <int value="25"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="62"></reference>
                    </dictionary>
@@ -4054,7 +4054,7 @@ complete this learning."></unicode>
                       <string role="key" value="_storageName"></string>
                       <string value="Barra-de-menus-de-Photoshop.png"></string>
                       <string role="key" value="_userName"></string>
-                      <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Barra-de-menus-de-Photoshop.png"></string>
+                      <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Barra-de-menus-de-Photoshop.png"></string>
                       <string role="key" value="checksum"></string>
                       <string value="31139f3a9bf5855200f8e262360b9efe"></string>
                       <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4104,7 +4104,7 @@ complete this learning."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="43309"></int>
+                        <int value="43329"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4118,7 +4118,7 @@ complete this learning."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="134_136_2.21"></unicode>
+                      <unicode value="134_136_2.22"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <reference key="78"></reference>
                       <string role="key" value="_parent"></string>
@@ -4142,7 +4142,7 @@ complete this learning."></unicode>
                   <reference key="62"></reference>
                  </dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="22"></int>
+                 <int value="23"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="75"></reference>
                 </dictionary>
@@ -4256,7 +4256,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43307"></int>
+                           <int value="43327"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4270,7 +4270,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="161_136_2.24"></unicode>
+                         <unicode value="161_136_2.25"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="82">
                           <dictionary>
@@ -4281,7 +4281,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Barra-de-estado.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Barra-de-estado.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Barra-de-estado.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5485954942941732acfa857c78c3a423"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4310,7 +4310,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="25"></int>
+                    <int value="26"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="81"></reference>
                    </dictionary>
@@ -4466,7 +4466,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43310"></int>
+                           <int value="43330"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4480,7 +4480,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="172_136_2.27"></unicode>
+                         <unicode value="172_136_2.28"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="86">
                           <dictionary>
@@ -4491,7 +4491,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Barra-herramientas.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Barra-herramientas.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Barra-herramientas.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="39d62624917a5a4d50ed91e68074c8df"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4520,7 +4520,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="28"></int>
+                    <int value="29"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="85"></reference>
                    </dictionary>
@@ -4650,7 +4650,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43311"></int>
+                           <int value="43331"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4664,7 +4664,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="162_173_2.10"></unicode>
+                         <unicode value="162_173_2.11"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="89">
                           <dictionary>
@@ -4675,7 +4675,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Barra-herramientas2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Barra-herramientas2.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Barra-herramientas2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3883e341954ba43c89773f6ce53b9d44"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4704,7 +4704,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="11"></int>
+                    <int value="12"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="85"></reference>
                    </dictionary>
@@ -4860,7 +4860,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43308"></int>
+                           <int value="43328"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4874,7 +4874,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="174_136_2.26"></unicode>
+                         <unicode value="174_136_2.27"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="93">
                           <dictionary>
@@ -4885,7 +4885,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Barra-de-estado.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Barra-de-estado.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Barra-de-estado.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5485954942941732acfa857c78c3a423"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4914,7 +4914,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="27"></int>
+                    <int value="28"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="92"></reference>
                    </dictionary>
@@ -5071,7 +5071,7 @@ complete this learning."></unicode>
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="43317"></int>
+                           <int value="43337"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -5085,7 +5085,7 @@ complete this learning."></unicode>
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="175_136_2.27"></unicode>
+                         <unicode value="175_136_2.28"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="97">
                           <dictionary>
@@ -5096,7 +5096,7 @@ complete this learning."></unicode>
                            <string role="key" value="_storageName"></string>
                            <string value="Paneles.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Paneles.png"></string>
+                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Paneles.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="6408751dd336dc7593c58c8dd66b6681"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5125,7 +5125,7 @@ complete this learning."></unicode>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="28"></int>
+                    <int value="29"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="96"></reference>
                    </dictionary>
@@ -5283,7 +5283,7 @@ complete this learning."></unicode>
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="43325"></int>
+                              <int value="43345"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5297,7 +5297,7 @@ complete this learning."></unicode>
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="171_189_2.5"></unicode>
+                            <unicode value="171_189_2.6"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="101">
                              <dictionary>
@@ -5308,7 +5308,7 @@ complete this learning."></unicode>
                               <string role="key" value="_storageName"></string>
                               <string value="Web-Adobe.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Web-Adobe.png"></string>
+                              <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Web-Adobe.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="7747f26e37378db0dd8bf3b01f9247b0"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5337,7 +5337,7 @@ complete this learning."></unicode>
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="6"></int>
+                       <int value="7"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="100"></reference>
                       </dictionary>
@@ -5582,7 +5582,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="43318"></int>
+                              <int value="43338"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5596,7 +5596,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="163_177_2.9"></unicode>
+                            <unicode value="163_177_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="107">
                              <dictionary>
@@ -5607,7 +5607,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                               <string role="key" value="_storageName"></string>
                               <string value="Paneles2.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Paneles2.png"></string>
+                              <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Paneles2.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="1d5e6d800594eb77a28055cfa1f939c7"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5636,7 +5636,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="10"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="104"></reference>
                       </dictionary>
@@ -5899,7 +5899,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="43319"></int>
+                              <int value="43339"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5913,7 +5913,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="170_188_2.5"></unicode>
+                            <unicode value="170_188_2.6"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="112">
                              <dictionary>
@@ -5924,7 +5924,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                               <string role="key" value="_storageName"></string>
                               <string value="Paneles3.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Paneles3.png"></string>
+                              <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Paneles3.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="d188938268ce4fb9c63766640f50d4d0"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5953,7 +5953,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="6"></int>
+                       <int value="7"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="104"></reference>
                       </dictionary>
@@ -6501,7 +6501,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                <instance class="exe.engine.field.TextField">
                                 <dictionary>
                                  <string role="key" value="_id"></string>
-                                 <int value="43314"></int>
+                                 <int value="43334"></int>
                                  <string role="key" value="_idevice"></string>
                                  <none></none>
                                  <string role="key" value="_instruc"></string>
@@ -6515,7 +6515,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                 </dictionary>
                                </instance>
                                <string role="key" value="_id"></string>
-                               <unicode value="58_114_2.45"></unicode>
+                               <unicode value="58_114_2.46"></unicode>
                                <string role="key" value="_imageResource"></string>
                                <instance class="exe.engine.resource.Resource" reference="124">
                                 <dictionary>
@@ -6526,7 +6526,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                  <string role="key" value="_storageName"></string>
                                  <string value="infografia-capas.png"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\infografia-capas.png"></string>
+                                 <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\infografia-capas.png"></string>
                                  <string role="key" value="checksum"></string>
                                  <string value="9f31d8e8f8fc19fdad95dc4f8d23c67e"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6555,7 +6555,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                           <string role="key" value="intlinks_to_anchors"></string>
                           <dictionary></dictionary>
                           <string role="key" value="nextImageId"></string>
-                          <int value="46"></int>
+                          <int value="47"></int>
                           <string role="key" value="parentNode"></string>
                           <reference key="123"></reference>
                          </dictionary>
@@ -7351,7 +7351,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                          <instance class="exe.engine.field.TextField">
                                           <dictionary>
                                            <string role="key" value="_id"></string>
-                                           <int value="43312"></int>
+                                           <int value="43332"></int>
                                            <string role="key" value="_idevice"></string>
                                            <none></none>
                                            <string role="key" value="_instruc"></string>
@@ -7365,7 +7365,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                           </dictionary>
                                          </instance>
                                          <string role="key" value="_id"></string>
-                                         <unicode value="68_108_2.42"></unicode>
+                                         <unicode value="68_108_2.43"></unicode>
                                          <string role="key" value="_imageResource"></string>
                                          <instance class="exe.engine.resource.Resource" reference="140">
                                           <dictionary>
@@ -7376,7 +7376,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                            <string role="key" value="_storageName"></string>
                                            <string value="capasAjustePrincpales.png"></string>
                                            <string role="key" value="_userName"></string>
-                                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\capasAjustePrincpales.png"></string>
+                                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\capasAjustePrincpales.png"></string>
                                            <string role="key" value="checksum"></string>
                                            <string value="cc21650fe92b5c1f1eeef7d233ba4b15"></string>
                                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7405,7 +7405,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                     <string role="key" value="intlinks_to_anchors"></string>
                                     <dictionary></dictionary>
                                     <string role="key" value="nextImageId"></string>
-                                    <int value="43"></int>
+                                    <int value="44"></int>
                                     <string role="key" value="parentNode"></string>
                                     <reference key="139"></reference>
                                    </dictionary>
@@ -7536,7 +7536,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                          <instance class="exe.engine.field.TextField">
                                           <dictionary>
                                            <string role="key" value="_id"></string>
-                                           <int value="43306"></int>
+                                           <int value="43326"></int>
                                            <string role="key" value="_idevice"></string>
                                            <none></none>
                                            <string role="key" value="_instruc"></string>
@@ -7550,7 +7550,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                           </dictionary>
                                          </instance>
                                          <string role="key" value="_id"></string>
-                                         <unicode value="67_108_2.43"></unicode>
+                                         <unicode value="67_108_2.44"></unicode>
                                          <string role="key" value="_imageResource"></string>
                                          <instance class="exe.engine.resource.Resource" reference="143">
                                           <dictionary>
@@ -7561,7 +7561,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                            <string role="key" value="_storageName"></string>
                                            <string value="Agrupar_capas.png"></string>
                                            <string role="key" value="_userName"></string>
-                                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\Agrupar_capas.png"></string>
+                                           <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\Agrupar_capas.png"></string>
                                            <string role="key" value="checksum"></string>
                                            <string value="a7f3927e42a0b85efd7c750d8440d9a2"></string>
                                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -7590,7 +7590,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                                     <string role="key" value="intlinks_to_anchors"></string>
                                     <dictionary></dictionary>
                                     <string role="key" value="nextImageId"></string>
-                                    <int value="44"></int>
+                                    <int value="45"></int>
                                     <string role="key" value="parentNode"></string>
                                     <reference key="139"></reference>
                                    </dictionary>
@@ -9209,7 +9209,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="43323"></int>
+                     <int value="43343"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -9223,7 +9223,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="113_114_2.31"></unicode>
+                   <unicode value="113_114_2.32"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="171">
                     <dictionary>
@@ -9234,7 +9234,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                      <string role="key" value="_storageName"></string>
                      <string value="seleccion.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\seleccion.png"></string>
+                     <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\seleccion.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="3bd457b4ac90c9bc8314be837409abd1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9263,7 +9263,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="32"></int>
+              <int value="33"></int>
               <string role="key" value="parentNode"></string>
               <reference key="168"></reference>
              </dictionary>
@@ -9832,7 +9832,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="43324"></int>
+                        <int value="43344"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -9846,7 +9846,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="117_118_2.31"></unicode>
+                      <unicode value="117_118_2.32"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="182">
                        <dictionary>
@@ -9857,7 +9857,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="seleccion2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpmxgxgw\\seleccion2.png"></string>
+                        <string value="c:\\users\\tonydi~1\\appdata\\local\\temp\\tmpivhisr\\seleccion2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="48cdc0cd2e0b1904a2a5122c9a4bf182"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9886,7 +9886,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="32"></int>
+                 <int value="33"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="181"></reference>
                 </dictionary>
@@ -10341,13 +10341,11 @@ that may help or hinder the learner in the performance of the task."></unicode>
 &lt;td&gt;Tony Diana&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;th&gt;'Licencia'&lt;/th&gt;
+&lt;th&gt;Licencia&lt;/th&gt;
 &lt;td&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot; rel=&quot;license&quot; class=&quot;cc cc-by-nc-sa&quot;&gt;&lt;span&gt;&lt;/span&gt;Creative Commons BY-NC-SA 4.0&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h4 style=&quot;text-align: center;&quot;&gt;Consulte la diferentes secciones de este capitulo&lt;/h4&gt;
-&lt;h4 style=&quot;text-align: center;&quot;&gt;para obtener más información sobre esta guía&lt;/h4&gt;&lt;/div&gt;"></unicode>
+&lt;/table&gt;&lt;/div&gt;"></unicode>
               <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
               <int value="4"></int>
               <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -10933,7 +10931,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
            <string role="key" value="anchors_linked_from_fields"></string>
            <dictionary></dictionary>
            <string role="key" value="content_w_resourcePaths"></string>
-           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Se mantiene una versión en el repositorio de &lt;strong&gt;GitHub&lt;/strong&gt; &lt;a href=&quot;https://github.com/TonyDiana/Autoformacion-en-Photoshop-Nivel-1.git&quot;&gt;https://github.com/TonyDiana/Autoformacion-en-Photoshop-Nivel-1.git&lt;/a&gt; y un manual en línea 100% operativo en la dirección web &lt;a href=&quot;https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/&quot;&gt;https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/&lt;/a&gt;&lt;/p&gt;
+           <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Se mantiene una versión en el &lt;a href=&quot;https://github.com/TonyDiana/Autoformacion-en-Photoshop-Nivel-1.git&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;repositorio de &lt;strong&gt;GitHub&lt;/strong&gt;&lt;/a&gt; y un manual en línea 100% operativo y &lt;a href=&quot;https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;completamente desplegado&lt;/a&gt;.&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;Se permite que cualquier persona pueda utilizar el repositorio, siempre y cuando respete los &lt;a href=&quot;exe-node:Presentaci%C3%B3n:Informaci%C3%B3n#auto_top&quot;&gt;acuerdos de la licencia&lt;/a&gt; de este producto.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
            <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -11067,6 +11065,22 @@ that may help or hinder the learner in the performance of the task."></unicode>
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align: center; vertical-align: top;&quot;&gt;
+&lt;p&gt;2.1d&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: center; vertical-align: top;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 8pt;&quot;&gt;5 May 2020&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;text-align: center; vertical-align: top;&quot;&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Tony Diana&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style=&quot;width: 100%; vertical-align: top;&quot;&gt;
+&lt;ul&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Se solucionan problemas de empaquetado de versiones y se colocan en GitHub y la semilla del Moodle esta versión para garantizar la unificación de versiones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;text-align: center; vertical-align: top;&quot;&gt;
 &lt;p&gt;2.1c&lt;/p&gt;
@@ -11341,8 +11355,8 @@ that may help or hinder the learner in the performance of the task."></unicode>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Para la confección de este trabajo se ha requerido la ayuda, colaboración y permiso de varios agentes implicados, por lo que resulta imprescindible hacer mención a ellos:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;Tony Diana fue el generador inicial de este trabajo.&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;Se agradece a Jaime Nicolau, editor y creador de &lt;a href=&quot;https://fotoversia.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;fotoversia.com&lt;/a&gt;, por permitir utilizar elementos de su web para desarrollar esta guía.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Tony Diana&lt;/strong&gt; fue el concepturalizador y generador inicial de este trabajo.&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;Se agradece a &lt;strong&gt;Jaime Nicolau&lt;/strong&gt;, editor y creador de &lt;a href=&quot;https://fotoversia.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;fotoversia.com&lt;/a&gt;, por permitir utilizar elementos de su web para desarrollar esta guía.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -11519,7 +11533,7 @@ that may help or hinder the learner in the performance of the task."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="203"></reference>
+  <reference key="206"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>

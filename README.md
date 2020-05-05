@@ -12,7 +12,7 @@ A todo docente universitario que tenga las mismas necesidades e inquietudes. Al 
 
 ## Información
 ```
-    Versión:    2.1c
+    Versión:    2.1d
     Fecha:      5 Mayo 2020
     web:        https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/
     Autor:      Tony Diana
