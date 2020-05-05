@@ -12,7 +12,7 @@ A todo docente universitario que tenga las mismas necesidades e inquietudes. Al 
 
 ## Información
 ```
-    Versión:    2.1a
+    Versión:    2.1b
     web:        https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/
     Autor:      Tony Diana
     Licencia:   Atribución, No Comercial, Compartir Igual, (CC BY-NC-SA)
