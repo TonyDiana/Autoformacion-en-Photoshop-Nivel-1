@@ -12,7 +12,7 @@ A todo docente universitario que tenga las mismas necesidades e inquietudes. Al 
 
 ## Información
 ```
-    Versión:    2.1d
+    Versión:    2.2a
     Fecha:      5 Mayo 2020
     web:        https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/
     Autor:      Tony Diana
@@ -27,13 +27,13 @@ La rama **master** será siempre la última versión estable y utilizable, la cu
 ## Carpetas
 
 ```
-    docs        Guía desplegada para usar en github como web
+    docs        Guía desplegada para usar en GitHub como web
     packages    Versión web, web LMS y ePub de la documentación.
     source      Archivos necesarios para generar la documentación.
 ```
 
 ### Contenido de la carpeta docs
-Existe siempre una versión desplegada en github de esta guía, la cual se encuentra ubicada en la dirección web:
+Existe siempre una versión desplegada en GitHub de esta guía, la cual se encuentra ubicada en la dirección web:
 
 https://tonydiana.github.io/Autoformacion-en-Photoshop-Nivel-1/
 
