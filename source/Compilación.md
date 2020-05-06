@@ -1,6 +1,6 @@
 # Proceso de compilación y montaje de la documentación
 
-##Proceso de exportación dentro de eXeLearning
+## Proceso de exportación dentro de eXeLearning
 
 - Revisar que el versionado se ha realizado.
 - Modificación de la versión y fecha de la misma en el archivo **README.md** de la raíz.
@@ -14,7 +14,7 @@
 - Salir de eXeLearning.
 
 
-##Mejorado del ePub
+## Mejorado del ePub
 
 - Importar a Calibre y añadir la portada, archivo `source\imágenes\Portada.png`.
 - Proceso de Modificar libro:
@@ -31,7 +31,7 @@
 - Será necesario cambiar el nombre al ePub.
 
 
-##Otras posibilidades adicionales
+## Otras posibilidades adicionales
 
 - Ubicar en el repositorio de GitHub.
 - Comprimir en la carpeta original.
